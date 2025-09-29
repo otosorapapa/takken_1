@@ -1,0 +1,128 @@
+{
+  "app": {
+    "title": "宅建10年ドリル",
+    "description": "過去10年分の宅建本試験問題を効率的に学習するためのトレーニングアプリ",
+    "header": {
+      "summary_answered": "本日の解答数",
+      "summary_accuracy": "本日の正答率",
+      "theme_light": "ライト",
+      "theme_dark": "ダーク",
+      "theme_sepia": "セピア"
+    },
+    "sidebar": {
+      "mode_quick": "クイック演習",
+      "mode_year": "年度別",
+      "mode_category": "分野別",
+      "mode_review": "弱点克服",
+      "mode_mock": "模試",
+      "mode_today": "本日の学習",
+      "mode_dashboard": "成績ダッシュボード",
+      "mode_admin": "問題管理",
+      "num_questions": "出題数",
+      "difficulty": "難易度",
+      "year_range": "年度範囲",
+      "category": "分野",
+      "ordering": "出題順序",
+      "ordering_random": "ランダム",
+      "ordering_difficulty": "難易度順",
+      "ordering_weakness": "弱点優先",
+      "law_filter": "法改正フィルタ",
+      "law_filter_include": "改正年を含む",
+      "law_filter_exclude": "改正年を除外",
+      "law_filter_ignore": "指定なし",
+      "tag_filter": "タグ絞り込み",
+      "apply": "条件を適用",
+      "reset": "リセット"
+    },
+    "question_card": {
+      "bookmark": "ブックマーク",
+      "mark_for_review": "後で復習",
+      "submit": "解答する",
+      "next": "次の問題",
+      "prev": "前の問題",
+      "save": "一時保存",
+      "result_correct": "正解!",
+      "result_incorrect": "不正解",
+      "correct_answer": "正答",
+      "explanation": "解説",
+      "law_reference": "関連法令",
+      "difficulty": "難易度",
+      "category": "分野",
+      "year": "年度",
+      "time_elapsed": "経過時間"
+    },
+    "results": {
+      "title": "結果",
+      "score": "スコア",
+      "accuracy": "正答率",
+      "total_time": "合計時間",
+      "retry": "同じ条件で再挑戦",
+      "weakness_note": "誤答ノート",
+      "category_accuracy": "分野別正答率"
+    },
+    "today": {
+      "goal_label": "本日の目標",
+      "goal_questions": "目標問題数",
+      "goal_minutes": "目標学習時間(分)",
+      "progress": "進捗",
+      "continue": "続きから再開"
+    },
+    "dashboard": {
+      "kpi_total": "累計学習数",
+      "kpi_week": "直近7日",
+      "kpi_month": "直近30日",
+      "kpi_accuracy": "累計正答率",
+      "kpi_time": "平均解答時間",
+      "kpi_weakness": "弱点分野Top3",
+      "chart_daily": "日次学習数",
+      "chart_category_accuracy": "分野別正答率",
+      "chart_year_distribution": "年度別出題数",
+      "chart_difficulty": "難易度別正答率",
+      "countdown": "試験日まで",
+      "suggested_volume": "推奨学習量"
+    },
+    "admin": {
+      "import_csv": "CSV取込",
+      "import_json": "JSON取込",
+      "export": "エクスポート",
+      "bulk_update": "一括編集",
+      "validate_success": "検証成功",
+      "validate_failed": "検証エラー",
+      "inserted": "登録件数",
+      "skipped": "スキップ件数",
+      "errors": "エラー詳細",
+      "download_bookmarks": "ブックマークをダウンロード",
+      "download_incorrect": "誤答のみダウンロード",
+      "overwrite": "上書き",
+      "skip": "スキップ"
+    },
+    "mock": {
+      "title": "模擬試験",
+      "start": "模試開始",
+      "time_limit": "制限時間",
+      "remaining": "残り時間"
+    },
+    "review": {
+      "title": "弱点克服",
+      "empty": "復習すべき問題がありません。",
+      "fetched": "復習キューを更新しました。"
+    },
+    "notifications": {
+      "saved": "保存しました",
+      "error": "エラーが発生しました",
+      "import_success": "問題を取り込みました",
+      "import_failure": "取り込みに失敗しました",
+      "export_success": "エクスポートしました",
+      "export_failure": "エクスポートに失敗しました"
+    },
+    "shortcuts": {
+      "title": "ショートカット",
+      "answer": "1〜4: 選択肢を選択",
+      "submit": "Enter: 解答送信",
+      "next": "N: 次へ",
+      "bookmark": "B: ブックマーク",
+      "retry": "R: やり直し",
+      "save": "S: 保存"
+    }
+  }
+}
