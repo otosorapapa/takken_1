@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "B", "I", "UP", "PL", "Q", "C4"]
+ignore = ["E203", "E266", "E501"]
+fix = true
+
+[tool.ruff.isort]
+known-first-party = ["db", "logic", "components", "services"]
+force-single-line = false
+lines-between-types = 1
+combine-as-imports = true
